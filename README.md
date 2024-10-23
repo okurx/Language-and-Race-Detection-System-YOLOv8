@@ -62,13 +62,4 @@ For any questions or suggestions, contact me at [burak1837burak@gmail.com].
 - **Demo Presentation**:  
   ![Demo Presentation](gallery/demo.png)
 
-<div align="center">
-
-![Algorithm](gallery/algorithm.jpg)  
-![Language Confusion Matrix](gallery/confmatrix_language.png)  
-![Race Confusion Matrix](gallery/confmatrix_race.png)  
-![Confusion Matrix](gallery/confmatrix.png)  
-![Demo Presentation](gallery/demo.png)  
-
-</div>
 
