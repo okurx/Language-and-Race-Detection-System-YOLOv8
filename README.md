@@ -39,3 +39,10 @@ This project serves as a starting point for integrating language and facial reco
 
 ## Contact
 For any questions or suggestions, contact me at [burak1837burak@gmail.com].
+
+## Visualizations
+- Algorithm: ![Algorithm](gallery/algorithm.jpg)
+- Language Confusion Matrix: ![Language Confusion Matrix](gallery/confmatrix_language.png)
+- Race Confusion Matrix: ![Race Confusion Matrix](gallery/confmatrix_race.png)
+- Overall Confusion Matrix: ![Confusion Matrix](gallery/confmatrix.png)
+- Demo Presentation: ![Demo Presentation](gallery/demo.png)
