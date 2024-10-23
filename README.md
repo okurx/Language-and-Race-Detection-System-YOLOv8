@@ -47,26 +47,28 @@ For any questions or suggestions, contact me at [burak1837burak@gmail.com].
 
 ## Visualizations
 
-<div align="center">
-
 - **Algorithm**:  
-  <div align="left">Algorithm</div>
   ![Algorithm](gallery/algorithm.jpg)
 
 - **Language Confusion Matrix**:  
-  <div align="left">Language Confusion Matrix</div>
   ![Language Confusion Matrix](gallery/confmatrix_language.png)
 
 - **Race Confusion Matrix**:  
-  <div align="left">Race Confusion Matrix</div>
   ![Race Confusion Matrix](gallery/confmatrix_race.png)
 
 - **Overall Confusion Matrix**:  
-  <div align="left">Overall Confusion Matrix</div>
   ![Confusion Matrix](gallery/confmatrix.png)
 
 - **Demo Presentation**:  
-  <div align="left">Demo Presentation</div>
   ![Demo Presentation](gallery/demo.png)
 
+<div align="center">
+
+![Algorithm](gallery/algorithm.jpg)  
+![Language Confusion Matrix](gallery/confmatrix_language.png)  
+![Race Confusion Matrix](gallery/confmatrix_race.png)  
+![Confusion Matrix](gallery/confmatrix.png)  
+![Demo Presentation](gallery/demo.png)  
+
 </div>
+
