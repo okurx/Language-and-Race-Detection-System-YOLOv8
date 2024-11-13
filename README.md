@@ -63,4 +63,4 @@ For any questions or suggestions, contact me at [burak1837burak@gmail.com].
   ![Demo Presentation](gallery/demo.png)
 
 ## Model Weights
-You can access the trained model weights [here](https://drive.google.com/file/d/1sE9cIfmOs8YIQUuMvUktJ90KCp22WJoX/view?usp=drive_link).
+You can access the trained model weights [here](https://drive.google.com/drive/folders/1XEoXf4M-7D2T7n5Jd-lwgCA3-tthwSxA?usp=drive_link).
